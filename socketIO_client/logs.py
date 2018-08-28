@@ -1,9 +1,7 @@
 import logging
 import time
-from invisibleroads_macros.log import get_log
 
 
-L = get_log('socketIO-client')
 
 
 class LoggingMixin(object):
